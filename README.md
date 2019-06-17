@@ -27,3 +27,4 @@ Some links:
 * https://gist.github.com/macintux/a79a254dd0bdd330702b
 * https://www.youtube.com/watch?v=b_swtL5bxJg
 * https://www.youtube.com/watch?v=YqNGbvFHoKM
+* https://doc.akka.io/docs/akka/current/distributed-data.html
